@@ -1,1 +1,1 @@
-# IBM-Watson-Studio
+# applied-data-science-capstone
